@@ -24,10 +24,6 @@ Clone the project
   git clone https://github.com/Alok-joseph/coffee-website.git
 ```
 
-Go to the project directory
 
-```bash
-  cd my-project
-```
 
 
