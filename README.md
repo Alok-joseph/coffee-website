@@ -13,4 +13,5 @@ This visually appealing and graphically designed template can satiate your sight
  
  ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![screenshot](https://user-images.githubusercontent.com/98444143/165442236-bd943c62-d5a2-4a01-b972-bc46c4f7f677.png)
+
