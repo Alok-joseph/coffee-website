@@ -15,3 +15,19 @@ This visually appealing and graphically designed template can satiate your sight
 
 ![screenshot](https://user-images.githubusercontent.com/98444143/165442236-bd943c62-d5a2-4a01-b972-bc46c4f7f677.png)
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+
