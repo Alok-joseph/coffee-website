@@ -21,7 +21,7 @@ This visually appealing and graphically designed template can satiate your sight
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Alok-joseph/coffee-website.git
 ```
 
 Go to the project directory
