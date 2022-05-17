@@ -24,6 +24,13 @@ Clone the project
   git clone https://github.com/Alok-joseph/coffee-website.git
 ```
 
+## 🚀 About Me
+I'm a Designer who codes
+
+## 🛠 Skills
+HTML, CSS ,JS
+
+
 
 
 
